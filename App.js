@@ -3,6 +3,7 @@
  * https://github.com/facebook/react-native
  *
  * @format
+ *just adding a comment :) coding 
  * @flow
  */
 
